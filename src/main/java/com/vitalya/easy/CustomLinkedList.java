@@ -1,3 +1,5 @@
+package com.vitalya.easy;
+
 public class CustomLinkedList {
 
     private Node head;
